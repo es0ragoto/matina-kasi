@@ -12,6 +12,7 @@ This is a repository of song lyrics, with one .txt file per song, in a folder st
 ### Formatting of text files
 - First row of each .txt file must be of the form [Artist]／[Song title], such as "Lumi/Ere／月夜の惨劇"
 - Rows may not start or end with whitespace (in particular row breaks must not contain whitespace)
+- Whitespace within a row may only be " " or "　"
 
 ### Folder structure
 - Folder names are romanised, see `lyrics/`
