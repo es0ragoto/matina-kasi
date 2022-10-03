@@ -4,7 +4,7 @@ Lyrics of Matina bands
 This is a repository of song lyrics, with one .txt file per song, in a folder structure. One folder contains an artist.
 
 # How to contribute
-Contribution new lyrics is encouraged and can be done in the following ways (ordered by difficulty)
+Contributing new lyrics is very much encouraged and can be done in the following ways (ordered by difficulty)
 - Sending a high quality photo of a booklet/lyric sheet by [e-mail](mailto:es0ragoto@proton.me).
 - Sending a high quality scan of a booklet/lyric sheet by [e-mail](mailto:es0ragoto@proton.me).
 - Sending a `.txt` file of a complete lyric by [e-mail](mailto:es0ragoto@proton.me).
