@@ -5,9 +5,9 @@ This is a repository of song lyrics, with one .txt file per song, in a folder st
 
 # How to contribute
 Contribution new lyrics is encouraged and can be done in the following ways (ordered by difficulty)
-- Sending a high quality photo of a booklet/lyric sheet to [e-mail](mailto:es0ragoto@proton.me).
-- Sending a high quality scan of a booklet/lyric sheet to [e-mail](mailto:es0ragoto@proton.me).
-- Sending a `.txt` file of a complete lyric to [e-mail](mailto:es0ragoto@proton.me).
+- Sending a high quality photo of a booklet/lyric sheet by [e-mail](mailto:es0ragoto@proton.me).
+- Sending a high quality scan of a booklet/lyric sheet by [e-mail](mailto:es0ragoto@proton.me).
+- Sending a `.txt` file of a complete lyric by [e-mail](mailto:es0ragoto@proton.me).
 - Making a pull request to this repo with `.txt` files following the conventions below.
 
 # Conventions for lyric files
